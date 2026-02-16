@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePic from '../assets/profile.jpg';
+import profilePic from '../assets/profile.jpeg';
 const Hero = () => {
     return (
         <section id="home" className="min-h-screen flex items-center bg-gradient-to-br from-gray-900 via-black to-gray-900 pt-20 md:pt-0">
