@@ -23,13 +23,13 @@ const Contact = () => {
                     </a>
 
                     {/* LinkedIn */}
-                    <a href="https://www.linkedin.com/in/gheorghe-iustin-istrate-b30502263" target="_blank" rel="noopener noreferrer" className="group bg-white/5 p-6 rounded-xl border border-white/10 hover:bg-[#0077b5] hover:border-[#0077b5] transition-all">
+                    <a href="https://www.linkedin.com/in/gheorghe-iustin-istrate-b305022b3/" target="_blank" rel="noopener noreferrer" className="group bg-white/5 p-6 rounded-xl border border-white/10 hover:bg-[#0077b5] hover:border-[#0077b5] transition-all">
                         <h3 className="text-xl font-semibold mb-2 group-hover:text-white">LinkedIn</h3>
                         <p className="text-gray-400 text-sm group-hover:text-blue-100">Connect with me</p>
                     </a>
 
                     {/* GitHub */}
-                    <a href="https://github.com/Justinlstrate" target="_blank" rel="noopener noreferrer" className="group bg-white/5 p-6 rounded-xl border border-white/10 hover:bg-gray-700 hover:border-gray-600 transition-all">
+                    <a href="https://github.com/JustinIstrate" target="_blank" rel="noopener noreferrer" className="group bg-white/5 p-6 rounded-xl border border-white/10 hover:bg-gray-700 hover:border-gray-600 transition-all">
                         <h3 className="text-xl font-semibold mb-2 group-hover:text-white">GitHub</h3>
                         <p className="text-gray-400 text-sm group-hover:text-gray-200">Check my code</p>
                     </a>

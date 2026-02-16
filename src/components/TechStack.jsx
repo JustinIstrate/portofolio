@@ -8,7 +8,7 @@ const TechStack = () => {
         },
         {
             category: "Frontend",
-            skills: ["Angular 18+", "React (Learning)", "Vue.js", "Tailwind CSS", "Bootstrap 5"]
+            skills: ["Angular 18+", "React", "Vue.js", "Tailwind CSS", "Bootstrap 5"]
         },
         {
             category: "DevOps & Cloud",
