@@ -1,5 +1,5 @@
 import React from 'react';
-
+import profilePic from '../assets/profile.jpg';
 const Hero = () => {
     return (
         <section id="home" className="min-h-screen flex items-center bg-gradient-to-br from-gray-900 via-black to-gray-900 pt-20 md:pt-0">
@@ -48,7 +48,7 @@ const Hero = () => {
                         {/* Containerul pozei cu border */}
                         <div className="relative z-10 w-64 h-64 md:w-80 md:h-80 rounded-4xl overflow-hidden border-4 border-white/10 hover:border-blue-500/50 transition-all duration-500 shadow-2xl transform hover:-rotate-2">
                             <img
-                                src="/profile.jpeg"  // <--- ASIGURĂ-TE CĂ NUMELE FIȘIERULUI E CORECT AICI
+                                src={profilePic}
                                 alt="Iustin Istrate"
                                 className="w-full h-full object-cover"
                             />
