@@ -6,7 +6,6 @@ const Projects = () => {
 
     const githubUsername = "JustinIstrate";
 
-    // AICI ESTE "CREIERUL" - Datele preluate direct din CV-ul tău
     const projectOverrides = {
         "Fleet-management-system": {
             description: "A comprehensive microservices ecosystem for fleet administration. Built with Spring Cloud (Eureka, API Gateway) and Java 21, it features automated ITP expiry alerts via scheduled tasks, maintenance cost analytics, and soft-delete data integrity. The frontend is a reactive Angular UI, with the entire stack containerized using Docker Compose.",

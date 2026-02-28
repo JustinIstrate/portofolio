@@ -6,7 +6,6 @@ const About = () => {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
 
-                    {/* Partea de Text */}
                     <div>
                         <h2 className="text-3xl md:text-4xl font-bold mb-6">
                             About <span className="text-blue-500">Me</span>
@@ -42,7 +41,6 @@ const About = () => {
                         </div>
                     </div>
 
-                    {/* Partea Vizuală (Card Educație) */}
                     <div className="bg-black/50 p-8 rounded-2xl border border-white/10 hover:border-blue-500/30 transition-colors relative">
                         <div className="absolute -top-4 -right-4 w-20 h-20 bg-blue-500/20 rounded-full blur-xl"></div>
 
