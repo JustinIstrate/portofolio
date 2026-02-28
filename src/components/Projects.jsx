@@ -23,6 +23,10 @@ const Projects = () => {
         "AutoPark-Smart-Explorer": {
             description: "A data visualization web platform built with PHP and JS for exploring large automotive datasets. Features interactive charts (exportable as SVG/WebP), CSV/JSON data processing, and a role-based admin dashboard for database management using MVC architecture.",
             tech: ["PHP", "JavaScript", "Data Visualization", "MySQL", "MVC"]
+        },
+        "CarMonitorIoT": {
+            description: "A real-time IoT telemetry system for remote vehicle monitoring. It features a Python-based engine simulator that streams live metrics (RPM, speed, OBD2 diagnostics) to Google Firebase via WebSockets. The system implements a full-duplex 'Kill Switch' mechanism for remote emergency shutdown and a reactive dashboard with live data visualization using Chart.js.",
+            tech: ["Python", "Google Firebase", "JavaScript", "Chart.js", "Real-time Data Streaming"]
         }
     };
 
