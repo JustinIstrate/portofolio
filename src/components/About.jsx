@@ -17,7 +17,7 @@ const About = () => {
                         <p className="text-gray-400 text-lg leading-relaxed mb-8">
                             I enjoy building clean, maintainable, and efficient solutions, with a particular interest in
                             <span className="text-blue-400"> backend development</span> and system architecture.
-                            I am highly motivated, curious, and eager to learn new technologies.
+                            I am highly motivated, curious and eager to learn new technologies.
                         </p>
 
                         {/* Soft Skills din CV */}
